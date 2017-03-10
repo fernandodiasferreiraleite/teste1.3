@@ -7,8 +7,7 @@ public class Teste
     {
         // TODO Auto-generated method stub
         System.out.print("Versao1.0");
-        System.out.print("");
-        System.out.print("aki");
+        
     }
 
 }
